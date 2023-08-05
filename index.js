@@ -84,11 +84,3 @@ app.listen(process.env.PORT || 3000, function(){                // process.env.P
 });
 
 
-/*
-API Key: 685d560af326cc303faa2edd62837eda-us12
-Audience ID or List ID: 8302567486
-
-Mail chimp:
-email: er.koushiksadhu@gmail.com
-password: Ks@12345
-*/
